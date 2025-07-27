@@ -82,11 +82,23 @@ Use weather and event data for demand forecasting
 
 Explore machine learning for predictive analytics
 
+# 🔗 Power BI Dashboard
+
+The `.pbix` file is available in this repository under the `powerbi/` folder.  
+Note: GitHub does not support previewing `.pbix` files in-browser.
+
+📥 **For convenience, you can also download it via Google Drive:**
+
+👉 [Click here to open the Power BI Dashboard](https://drive.google.com/file/d/1Cfa31RrwCiPl4T9VuHq4fBf8Hpem3ddh/view?usp=sharing)
+
+
 # 📄 Author
 RUTAGANIRA SHEMA Derrick
 Group E | Student ID: 26506
 Instructor: Eric Maniraguha
 Course: INSY 8413 - Introduction to Big Data Analytics
+
+https://drive.google.com/file/d/1Cfa31RrwCiPl4T9VuHq4fBf8Hpem3ddh/view?usp=sharing
 
 # 📅 Submission Date: July 27, 2025
 # 🎓 Institution: Adventist University of Central Africa (AUCA)
